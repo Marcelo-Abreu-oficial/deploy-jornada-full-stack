@@ -8,6 +8,6 @@ O projeto foi criado com base na Jornada Full Stack promovido pela Hashtag, onde
 
 Com este projeto, foi possível aprender de forma geral a como desenvolver um site, tendo o Front e o Back end, além de banco de dados e o deploy do site.
 
-<a href="https://deploy-jornada-full-stack-i3hf.onrender.com/" target="_blank"><img loading="lazy" src="https://deploy-jornada-full-stack-i3hf.onrender.com/assets/spotify-logo-kNZPVL0_.png" target="_blank"></a>
+<a href="https://deploy-jornada-full-stack-i3hf.onrender.com/" target="_blank"><img loading="lazy" src="https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png" target="_blank"></a>
 
 <a href="http://www.linkedin.com/in/marcelo-abreu-04324229b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
